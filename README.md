@@ -29,6 +29,8 @@
      * [数据结构](#数据结构)
 ## ARM体系结构
 
++ [READMEfdsafadfsa](/OS/README.md)
+
 1. [ARM 指令集可以分为哪六大类?](https://luckywater.top/2019/08/02/ARM体系结构/)
    + ARM体系结构中的工作状态?
 2. ARM 和EEPROM之间的通信方式是什么?当时有两个电阻没有焊接出错, 后面焊接完成就正确了?
